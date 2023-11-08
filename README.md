@@ -21,11 +21,13 @@ This is a simple TodoList application built using Node.js and MongoDB. It allows
 ## Usage
 
 1. Clone the repository:
+
 ```
-git clone https://github.com/Unknownfanzh/TodoList-app
+git clone https://github.com/Jjjing2023/ToDoList-task-manager.git
 ```
 
 2. Install dependencies:
+
 ```
 cd todolist-app
 npm install
@@ -38,6 +40,7 @@ npm install
    - Replace the `mongodb+srv://<username>:<password>@<cluster-url>/todolistDB` connection URL in `app.js` with your MongoDB Atlas connection URL.
 
 4. Start the application:
+
 ```
 npm start
 ```
